@@ -1,4 +1,4 @@
-## palm
+# palm
 
 Palm is an programming 
 language compiled in the
@@ -8,7 +8,7 @@ My goal is to make the most
 simple programming language 
 for beginners !
 
-# example
+## example
 
 ```
 VAR:int __int-name__ = 0
@@ -22,8 +22,9 @@ REPETE 5 {
 
 ```
 
-# docs
+## docs
  
 Command | usage | parameters
 --- | --- | ---
+ADD | declaring a variable | types: string, int, bool and float
 
