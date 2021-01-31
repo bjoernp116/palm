@@ -26,5 +26,5 @@ REPETE 5 {
  
 Command | usage | parameters
 --- | --- | ---
-ADD | declaring a variable | types: string, int, bool and float
+ADD[:type] name = value | declaring a variable | types: string, int, bool and float
 
