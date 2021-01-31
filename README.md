@@ -27,4 +27,6 @@ REPETE 5 {
 Command | usage | parameters
 --- | --- | ---
 ```ADD[:type] name = value``` | declaring a variable | types: string, int, bool and float
+```EDIT name = value``` | editing an already existing variable | no params
+```PRINT value``` | printing an object to the console (equal to ``` console.log(); ```) | value: the variable you want to print
 
