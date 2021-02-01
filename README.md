@@ -4,6 +4,8 @@ Palm is an programming
 language compiled in the
 web browser!
 
+**remember this is still 100% in progress**
+
 I'm completely new to this
 so if you want to help me just 
 leave a comment in discussion!
