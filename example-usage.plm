@@ -1,0 +1,3 @@
+ADD hello = "hello world"
+
+PRINT hello
